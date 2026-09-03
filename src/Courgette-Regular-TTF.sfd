@@ -32,7 +32,7 @@ OS2TypoDescent: -150
 OS2TypoDOffset: 1
 OS2TypoLinegap: 0
 OS2WinAscent: 2000
-OS2WinAOffset: 1
+OS2WinAOffset: 0
 OS2WinDescent: 0
 OS2WinDOffset: 1
 HheadAscent: 1
